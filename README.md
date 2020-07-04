@@ -11,8 +11,8 @@ Para usarlo debe contar el certificado p12  push notifications  de apple (apple 
 ## Modo de Uso:
 
 
- X509Certificate2 certificate = new X509Certificate2(**Ruta del certificado .p12**
-              ,**Clave del certificado**);
+         X509Certificate2 certificate = new X509Certificate2(**Ruta del certificado .p12**
+                 ,**Clave del certificado**);
 
 
 
