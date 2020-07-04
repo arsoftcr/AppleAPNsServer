@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net46;net47</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>Modificación a paquete nuget de Jonathan Dick  para configurar servidor de APNS para aplicaciones IOS (Iphone - Ipad)</Description>
+    <Copyright>Copyright 2012-2016 Jonathan Dick</Copyright>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/arsoftcr/AppleAPNsServer.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/arsoftcr/AppleAPNsServer.git</RepositoryUrl>
+    <RepositoryType>https://github.com/arsoftcr/AppleAPNsServer.git</RepositoryType>
+    <PackageTags>apple,apns,ios</PackageTags>
+    <PackageReleaseNotes>Modificación a paquete nuget de Jonathan Dick  para configurar servidor de APNS para aplicaciones IOS (Iphone - Ipad)</PackageReleaseNotes>
+    <Authors>Arsoft</Authors>
+    <Company>Arsoft</Company>
+    <ApplicationIcon>about.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

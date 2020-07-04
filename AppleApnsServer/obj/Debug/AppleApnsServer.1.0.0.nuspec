@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppleApnsServer</id>
+    <version>1.0.0</version>
+    <authors>Arsoft</authors>
+    <owners>Arsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/arsoftcr/AppleAPNsServer.git</projectUrl>
+    <description>Modificación a paquete nuget de Jonathan Dick  para configurar servidor de APNS para aplicaciones IOS (Iphone - Ipad)</description>
+    <releaseNotes>Modificación a paquete nuget de Jonathan Dick  para configurar servidor de APNS para aplicaciones IOS (Iphone - Ipad)</releaseNotes>
+    <copyright>Copyright 2012-2016 Jonathan Dick</copyright>
+    <tags>apple,apns,ios</tags>
+    <repository type="https://github.com/arsoftcr/AppleAPNsServer.git" url="https://github.com/arsoftcr/AppleAPNsServer.git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.7">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net46\AppleApnsServer.dll" target="lib\net46\AppleApnsServer.dll" />
+    <file src="C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\AppleApnsServer.dll" target="lib\net47\AppleApnsServer.dll" />
+    <file src="C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\netstandard2.0\AppleApnsServer.dll" target="lib\netstandard2.0\AppleApnsServer.dll" />
+    <file src="C:\Users\rviquez\Desktop\LICENSE.md" target="LICENSE.md" />
+  </files>
+</package>

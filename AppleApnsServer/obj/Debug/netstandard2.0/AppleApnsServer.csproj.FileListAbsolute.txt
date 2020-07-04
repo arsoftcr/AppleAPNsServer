@@ -1,0 +1,9 @@
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\netstandard2.0\AppleApnsServer.deps.json
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\netstandard2.0\AppleApnsServer.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\netstandard2.0\AppleApnsServer.pdb
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\netstandard2.0\AppleApnsServer.AssemblyInfoInputs.cache
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\netstandard2.0\AppleApnsServer.AssemblyInfo.cs
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\netstandard2.0\AppleApnsServer.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\netstandard2.0\AppleApnsServer.pdb
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\netstandard2.0\AppleApnsServer.csprojAssemblyReference.cache
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\netstandard2.0\AppleApnsServer.csproj.CoreCompileInputs.cache

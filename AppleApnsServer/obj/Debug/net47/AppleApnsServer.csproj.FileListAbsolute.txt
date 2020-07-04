@@ -1,0 +1,17 @@
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.csprojAssemblyReference.cache
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.AssemblyInfoInputs.cache
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.AssemblyInfo.cs
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.csproj.CoreCompileInputs.cache
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\AppleApnsServer.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\AppleApnsServer.pdb
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\Newtonsoft.Json.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.IO.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.Net.Http.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.Runtime.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.Security.Cryptography.Algorithms.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.Security.Cryptography.Encoding.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.Security.Cryptography.Primitives.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\bin\Debug\net47\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.csproj.CopyComplete
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.dll
+C:\Users\rviquez\Source\Repos\AppleApnsServer\AppleApnsServer\obj\Debug\net47\AppleApnsServer.pdb
